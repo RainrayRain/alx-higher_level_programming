@@ -15,7 +15,8 @@ del l[1]
 lib.print_python_list(l)
 l = l + [4, 5, 6.0, (9, 8), [9, 8, 1024], b"Holberton", "Betty"]
 lib.print_python_list(l)
-l = []lib.print_python_list(l)
+l = []
+lib.print_python_list(l)
 l.append(0)
 lib.print_python_list(l)
 l.append(1)
